@@ -6,6 +6,7 @@
 - yarn;
 
 Для запуска:
-- yarn;
+- cd card-news;
 - cd my-app;
+- yarn
 - yarn dev;
