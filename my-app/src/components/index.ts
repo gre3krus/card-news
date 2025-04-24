@@ -1,0 +1,5 @@
+export * from './header/header'
+export * from './title/title'
+export * from './news/news'
+export * from './tags/tags'
+export * from './second-card/second-card'
